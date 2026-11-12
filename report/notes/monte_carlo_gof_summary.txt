@@ -1,0 +1,12 @@
+Monte Carlo goodness-of-fit test
+Requested simulations: 500
+Successful simulations: 500
+Failed simulations: 0
+Observed W-statistic: 268.525815
+Mean simulated W-statistic: 259.263674
+Median simulated W-statistic: 259.101446
+Standard deviation: 18.626530
+5th percentile: 228.291293
+95th percentile: 290.128582
+Simulations >= observed: 143
+Monte Carlo p-value: 0.287425

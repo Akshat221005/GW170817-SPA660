@@ -1,0 +1,14 @@
+# Raw / large Chandra products (download from the Chandra Data Archive)
+data/
+analysis/repro/
+*.fits
+*.fits.gz
+*.img
+*.expmap
+
+# Python / OS
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+~$*
+Thumbs.db

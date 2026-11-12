@@ -1,0 +1,5 @@
+GW170817 X-ray Luminosity
+Adopted distance: 40.0 Mpc
+Energy range: 0.5-7 keV
+Absorbed luminosity: 2.73727850e+39 erg/s
+Unabsorbed luminosity: 4.19137240e+39 erg/s

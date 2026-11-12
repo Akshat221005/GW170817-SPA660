@@ -1,0 +1,30 @@
+GW170817 - Exposure Map Validation
+Chandra ObsID: 20860
+Energy band: 0.5-7.0 keV
+
+Fine exposure map:
+File: analysis/gw170817_fine_0.5-7_thresh.expmap
+Pixel size: 0.492 arcsec
+Dimensions: 2685 x 2639
+
+Source region:
+Pixels: 51
+Zero-exposure pixels: 0
+Mean exposure: 25144164 cm2 s
+Median exposure: 25146656 cm2 s
+
+Background region:
+Pixels: 2512
+Zero-exposure pixels: 0
+Mean exposure: 24900376 cm2 s
+Median exposure: 25095788 cm2 s
+
+Source/background mean exposure difference: approximately 0.98%
+
+Exposure-corrected preliminary net counts: 103.72
+Preliminary uncertainty: approximately 10.40 counts
+
+Conclusion:
+Both extraction regions have non-zero exposure throughout.
+Their mean effective exposures are similar.
+Background and spectral validation remain necessary.

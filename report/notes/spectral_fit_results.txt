@@ -1,0 +1,19 @@
+GW170817 - Chandra Spectral Fitting
+Observation ID: 20860
+Energy range: 0.5-7.0 keV
+Model: TBabs * PowerLaw
+Abundances: Wilms et al. (2000)
+Statistic: W-statistic
+
+Best-fit parameters:
+NH = 0.558294 x 10^22 atoms/cm^2
+Photon Index = 2.04762
+Power-law normalization = 5.33125e-6
+
+90% confidence intervals:
+NH = 0.134484 to 1.111732 x 10^22 atoms/cm^2
+Photon Index = 1.476443 to 2.702589
+Normalization = 2.81320e-6 to 1.09005e-5
+
+Final W-statistic = 268.526
+Degrees of freedom = 443

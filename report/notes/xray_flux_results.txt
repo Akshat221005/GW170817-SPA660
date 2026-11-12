@@ -1,0 +1,8 @@
+GW170817 X-ray Flux Results
+Observation ID: 20860
+Model: TBabs * PowerLaw
+Abundances: Wilms et al. (2000)
+Energy range: 0.5-7.0 keV
+
+Absorbed flux: 1.42984188e-14 erg/cm^2/s
+Unabsorbed flux: 2.18940122e-14 erg/cm^2/s

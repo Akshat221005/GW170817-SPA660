@@ -1,0 +1,39 @@
+GW170817 - Chandra X-ray Analysis Summary
+
+Observation ID: 20860
+Instrument: Chandra ACIS
+Exposure: 74086.09 seconds
+Adopted distance: 40 Mpc
+
+SPECTRAL EXTRACTION
+Energy range: 0.5-7 keV
+Source counts: 108
+Background counts: 212
+
+SPECTRAL MODEL
+Model: TBabs * PowerLaw
+Abundance table: Wilms et al. (2000)
+Fit statistic: W-statistic
+
+BEST-FIT PARAMETERS
+NH: 0.558294 x 10^22 atoms/cm^2
+Photon index: 2.047621
+Power-law normalization: 5.331252e-6
+
+90% CONFIDENCE INTERVALS
+NH: 0.134484 to 1.111732 x 10^22 atoms/cm^2
+Photon index: 1.476443 to 2.702589
+Normalization: 2.81320e-6 to 1.09005e-5
+
+X-RAY FLUX (0.5-7 keV)
+Absorbed: 1.429842e-14 erg/cm^2/s
+Unabsorbed: 2.189401e-14 erg/cm^2/s
+
+X-RAY LUMINOSITY (0.5-7 keV)
+Absorbed: 2.737279e39 erg/s
+Unabsorbed: 4.191372e39 erg/s
+
+IMPORTANT:
+These are preliminary model-dependent measurements.
+The spectral goodness of fit and systematic uncertainties
+require further investigation.

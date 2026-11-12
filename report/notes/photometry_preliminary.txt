@@ -1,0 +1,21 @@
+GW170817 - Preliminary X-ray Photometry
+Chandra ObsID: 20860
+Energy band: 0.5-7.0 keV
+Exposure: 74086.0869 s
+
+Source region:
+Center: (4108.63, 4101.88)
+Radius: 4 sky pixels (1.968 arcsec)
+Gross counts: 108
+
+Background region:
+Center: (4108.63, 4101.88)
+Inner radius: 10 sky pixels
+Outer radius: 30 sky pixels
+Background counts: 212
+
+Expected background in source aperture: 4.24 counts
+Preliminary net counts: 103.76
+Preliminary net count rate: 0.001400 counts/s
+
+Note: Background and exposure validation pending.
